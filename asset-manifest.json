@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/textseeker_app/static/css/main.073c9b0a.css",
+    "main.js": "/textseeker_app/static/js/main.ef6c11dc.js",
+    "static/js/787.1211f817.chunk.js": "/textseeker_app/static/js/787.1211f817.chunk.js",
+    "index.html": "/textseeker_app/index.html",
+    "main.073c9b0a.css.map": "/textseeker_app/static/css/main.073c9b0a.css.map",
+    "main.ef6c11dc.js.map": "/textseeker_app/static/js/main.ef6c11dc.js.map",
+    "787.1211f817.chunk.js.map": "/textseeker_app/static/js/787.1211f817.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.ef6c11dc.js"
+  ]
+}
